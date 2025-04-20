@@ -31,7 +31,7 @@ Have a project in mind? Let's make it happen!
 
 📧 **Contact us** at: [hedcode@villsource.net](mailto:hedcode@villsource.net)
 
-🌐 **Visit us** at: [hedcode.com](https://github.com/hed-code)
+🌐 **Visit us** at: [hedcode.com](https://hed-code.github.io/)
 
 ---
 
